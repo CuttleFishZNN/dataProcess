@@ -1,0 +1,1 @@
+segment_uid,lesson_id,segment_id,clip_path,audio_path,pose_model,pose_json_path,pose_video_path,lower_body_occluded,text,start_time,end_time
